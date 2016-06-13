@@ -20,5 +20,6 @@ group :development do
   gem 'devise', '~> 4.1', '>= 4.1.1'
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
   gem 'acts_as_votable', '~> 0.10.0'
+  gem 'simple_form', '~> 3.2', '>= 3.2.1'
 end
 
